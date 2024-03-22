@@ -1,1 +1,4 @@
 # spring-2024-stock-options-analysis
+
+Objectives:
+Identifying positive trades in the stock market is incredibly difficult, especially for those who lack the time to research the details required to make an informed trade. However, a shortcut around this extensive research, known as the Options Market, has begun to bloom in recent years. Instead of trading stocks, which can require large amounts of capital to see a worthy return, the trader buys and sells options on specific stocks in this marketplace. These options are often inexpensive, highly available, and limit investment risk. Given these facts, we want to build a model to identify option trades with specific features that minimize risk and maximize return consistency.
